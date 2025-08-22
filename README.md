@@ -17,8 +17,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=hafranniomenezes75&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hafranniomenezes75&layout=compact&theme=radical)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes75&layout=compact&theme=radical)  
 
 ---
 

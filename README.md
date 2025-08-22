@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o TRIPLO x  
+# 👋 Olá, eu sou o Hafrannio Menezes 
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre aprendendo coisas novas.  
 🚀 Focado em construir soluções criativas e eficientes.  
@@ -18,7 +18,7 @@
 
 ## 📊 Estatísticas do GitHub  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes75&layout=compact&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes&layout=compact&theme=radical)  
 
 ---
 

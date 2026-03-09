@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 
@@ -32,4 +33,4 @@
 
 ---
 
-✨ _"Sempre em busca de aprender, criar e compartilhar conhecimento."_  
+✨ _"Sempre em busca de aprender, criar e compartilhar conhecimento."_

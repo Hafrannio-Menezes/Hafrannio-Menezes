@@ -1,14 +1,13 @@
 # 👋 Hafrannio Menezes  
 
-💻 Desenvolvedor de Software com foco em construção de soluções eficientes, escaláveis e orientadas a resultados.  
-🎓 Estudante de Engenharia de Software e atuante na área de banco de dados e desenvolvimento backend.  
+💻 Desenvolvedor de Software com foco em soluções eficientes, escaláveis e orientadas a dados.  
+🎓 Estudante de Engenharia de Software com atuação em desenvolvimento backend e administração de bancos de dados.  
 
 ---
 
 ## 🧩 Sobre mim  
-Sou apaixonado por tecnologia e desenvolvimento de sistemas, com interesse em arquitetura de software, bancos de dados e criação de soluções robustas para ambientes reais.  
-
-Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contribuir com projetos que gerem impacto positivo e inovação.
+Tenho forte interesse em arquitetura de sistemas, modelagem de dados e desenvolvimento de APIs robustas.  
+Atuo com foco em performance, organização e boas práticas, buscando sempre evoluir tecnicamente e entregar soluções confiáveis.  
 
 ---
 
@@ -29,7 +28,12 @@ Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contrib
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)  
 
-### 🗄️ Banco de Dados & Versionamento  
+### 🗄️ Banco de Dados & ORM  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)  
+
+### 🔁 Versionamento & Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
 
@@ -48,4 +52,4 @@ Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contrib
 ---
 
 ## ✨ Objetivo  
-Desenvolver soluções tecnológicas confiáveis e eficientes, com foco em qualidade, desempenho e escalabilidade, contribuindo para projetos relevantes no mercado de tecnologia.
+Atuar no desenvolvimento de soluções tecnológicas modernas, com foco em qualidade, desempenho e escalabilidade, contribuindo para projetos relevantes no mercado.

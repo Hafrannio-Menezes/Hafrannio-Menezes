@@ -15,40 +15,60 @@ Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contrib
 ## 🔧 Tecnologias & Ferramentas  
 
 ### 🖥️ Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
+</p>
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff"/>
+</p>
 
 ### 📱 Mobile  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
+</p>
 
 ### 🗄️ Banco de Dados & ORM  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff"/>
+</p>
 
 ### 🔁 Versionamento & Ferramentas  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Streak](https://streak-stats.demolab.com?user=Hafrannio-Menezes&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hafrannio-Menezes&theme=radical"/>
+</p>
 
 ---
 
 ## 🌐 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu-perfil)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?logo=vercel&logoColor=fff)](https://seusite.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)  
+<p>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff"/>
+  </a>
+  <a href="https://seusite.com">
+    <img src="https://img.shields.io/badge/Portfólio-000?logo=vercel&logoColor=fff"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff"/>
+  </a>
+</p>
 
 ---
 

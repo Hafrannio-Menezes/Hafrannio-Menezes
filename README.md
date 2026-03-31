@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu-perfil)  
 [![Portfolio](https://img.shields.io/badge/-Portfólio-000?logo=vercel&logoColor=fff)](https://seusite.com)  

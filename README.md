@@ -1,13 +1,14 @@
 # 👋 Hafrannio Menezes  
 
-💻 Desenvolvedor de Software com foco em soluções eficientes, escaláveis e orientadas a dados.  
-🎓 Estudante de Engenharia de Software com atuação em desenvolvimento backend e administração de bancos de dados.  
+💻 Desenvolvedor de Software com foco em construção de soluções eficientes, escaláveis e orientadas a resultados.  
+🎓 Estudante de Engenharia de Software e atuante na área de banco de dados e desenvolvimento backend.  
 
 ---
 
 ## 🧩 Sobre mim  
-Tenho forte interesse em arquitetura de sistemas, modelagem de dados e desenvolvimento de APIs robustas.  
-Atuo com foco em performance, organização e boas práticas, buscando sempre evoluir tecnicamente e entregar soluções confiáveis.  
+Sou apaixonado por tecnologia e desenvolvimento de sistemas, com interesse em arquitetura de software, bancos de dados e criação de soluções robustas para ambientes reais.  
+
+Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contribuir com projetos que gerem impacto positivo e inovação.
 
 ---
 

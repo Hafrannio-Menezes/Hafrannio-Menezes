@@ -50,12 +50,5 @@ Atualmente, busco aprimorar continuamente minhas habilidades técnicas e contrib
 
 ---
 
-## Estatísticas do GitHub  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hafrannio-Menezes&theme=radical"/>
-</p>
-
----
-
 ## ✨ Objetivo  
 Atuar no desenvolvimento de soluções tecnológicas modernas, com foco em qualidade, desempenho e escalabilidade, contribuindo para projetos relevantes no mercado.

@@ -23,8 +23,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hafrannio-Menezes&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Hafrannio-Menezes&theme=radical)
 
 ---
 

@@ -23,8 +23,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical&cache_seconds=1800)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes&layout=compact&theme=radical&cache_seconds=1800)
+![Estatísticas](https://stats.vercel.app/api?username=Hafrannio-Menezes&show_icons=true&theme=radical)  
+![Linguagens](https://stats.vercel.app/api/top-langs/?username=Hafrannio-Menezes&layout=compact&theme=radical)
 
 ---
 

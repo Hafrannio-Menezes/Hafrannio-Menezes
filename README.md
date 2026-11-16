@@ -14,7 +14,7 @@
 <p align="center">
   Sou estudante de Engenharia de Software e gosto mesmo é de backend e banco de dados:<br />
   montar APIs, modelar os dados direito e deixar o sistema organizado pra crescer sem virar bagunça.<br />
-  Ultimamente ando estudando arquitetura de software, SOLID e padrões de projeto.
+  Ultimamente ando estudando arquitetura de software, e padrões de projeto.
 </p>
 
 <p align="center">
